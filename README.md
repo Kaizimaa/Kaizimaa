@@ -1,21 +1,21 @@
 <div align="center">
   <h1>Halo! Saya Mohamad Ihsan Al Gifari 👋</h1>
   
-  <p>Seorang <strong>Fullstack Developer</strong> yang bersemangat dalam membangun solusi web yang kuat, efisien, dan modern. Saya fokus pada pengalaman pengguna yang mulus dan arsitektur backend yang andal.</p>
+  <p>Seorang <strong>Fullstack Developer</strong> yang bersemangat dalam membangun solusi web yang kuat, efisien, dan modern. <strong>Saya aktif mencari peluang kerja pertama sebagai Fullstack/Software Developer.</strong></p>
 </div>
 
 ---
 
 ### 🚀 Tentang Saya
 
-* 🔭 **Saat ini saya bekerja sebagai:** Programmer Fullstack.
-* 💡 **Fokus saya:** Mengembangkan aplikasi dari Front-end hingga Back-end dengan performa tinggi.
+* 💡 **Fokus saya:** Mengembangkan aplikasi dari Front-end hingga Back-end dengan performa tinggi dan praktik terbaik industri.
+* 🎓 **Status:** Siap bekerja penuh waktu, dan antusias untuk bergabung dengan tim yang dinamis.
 * 🌱 **Proyek Terakhir:** Sistem Helpdesk (untuk meningkatkan efisiensi dukungan teknis).
-* 📫 **Anda bisa menghubungi saya:** Cek link di bawah!
+* 💼 **Ketersediaan:** Segera. Silakan hubungi saya untuk diskusi lebih lanjut!
 
 ---
 
-### 🛠️ Keterampilan & Teknologi Pilihan
+### 🛠️ Keterampilan & Teknologi Kuat
 
 Saya menguasai berbagai bahasa dan *framework* yang mendukung pengembangan *full-stack*.
 
@@ -39,13 +39,23 @@ Saya menguasai berbagai bahasa dan *framework* yang mendukung pengembangan *full
 
 ---
 
-### 🔗 Mari Terhubung
+### 🎯 Proyek Unggulan
 
-Saya senang berdiskusi tentang teknologi, kolaborasi proyek, atau peluang baru.
+**Sistem Helpdesk**
+* **Deskripsi:** Proyek terakhir yang menunjukkan kemampuan penuh *stack* saya dalam merancang dan mengimplementasikan solusi yang berorientasi bisnis.
+
+---
+
+### 📞 Mari Terhubung & Peluang Kerja
+
+Saya sangat terbuka untuk berdiskusi tentang peluang pekerjaan dan kolaborasi. Jangan ragu untuk menghubungi saya!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/m-ihsan-ag/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Mohamad Ihsan" />
+  </a>
+  <a href="https://wa.me/6285183126099" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Mohamad Ihsan" />
   </a>
   <a href="https://www.instagram.com/m.ihsan_ag/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Mohamad Ihsan" />
